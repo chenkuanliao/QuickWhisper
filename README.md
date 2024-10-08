@@ -31,7 +31,7 @@ pip3 install tabulate
 ```
 
 ## Running the code
-once the above requirements are install and set up, run the following command
+once the above requirements are installed and set up, run the following command
 ```
 python3 main.py {path/to/your/file} 
 ```
